@@ -37,6 +37,7 @@ from .nasfcos import NASFCOS
 from .paa import PAA
 from .panoptic_fpn import PanopticFPN
 from .panoptic_two_stage_segmentor import TwoStagePanopticSegmentor
+from .piza_adapter_grounding_dino import PizaAdapterGroundingDINO
 from .point_rend import PointRend
 from .queryinst import QueryInst
 from .reppoints_detector import RepPointsDetector
@@ -71,5 +72,5 @@ __all__ = [
     'MaskFormer', 'DDOD', 'Mask2Former', 'SemiBaseDetector', 'SoftTeacher',
     'RTMDet', 'Detectron2Wrapper', 'CrowdDet', 'CondInst', 'BoxInst',
     'DetectionTransformer', 'ConditionalDETR', 'DINO', 'DABDETR', 'GLIP',
-    'DDQDETR', 'GroundingDINO'
+    'DDQDETR', 'GroundingDINO', 'PizaAdapterGroundingDINO'
 ]

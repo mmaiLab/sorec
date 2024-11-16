@@ -6,3 +6,6 @@ shapely
 six
 terminaltables
 tqdm
+einops==0.8.0
+wandb==0.18.7
+transformers==4.44.2
