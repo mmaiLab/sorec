@@ -1,4 +1,6 @@
 # Referring Expression Comprehension for Small Objects
+You can check our paper [here](https://openaccess.thecvf.com/content/ICCV2025/papers/Goto_Referring_Expression_Comprehension_for_Small_Objects_ICCV_2025_paper.pdf)!
+
 
 ![sorec_image](resources/sorec/sorec_image.png)
 
