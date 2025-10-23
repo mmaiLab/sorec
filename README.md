@@ -194,5 +194,11 @@ The code and the model weights in this repository is released under the MIT lice
 
 Please cite this repository as bellow.
 ```
-
+@InProceedings{Goto2025SOREC,
+  author       = {Kanoko Goto and Takumi Hirose and Mahiro Ukai and Shuhei Kurita and Nakamasa Inoue},
+  title        = {Referring Expression Comprehension for Small Objects},
+  booktitle    = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  year         = {2025},
+  pages        = {21231--21242},
+}
 ```
